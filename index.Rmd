@@ -18,10 +18,46 @@ c4 ="#686868"  # gris - color texto
 
 </br></br>
 
-# <span style="color:#034a94">**Caso **</span> 
+# <span style="color:#034a94">**Caso biomasa**</span> 
 
+<center>
 
-```{r, echo=FALSE, out.width="100%", fig.align = "center"}
-# knitr::include_graphics("img/tableroZ.png")
+```{r, echo=FALSE, out.width="90%", fig.align = "center"}
+ knitr::include_graphics("img/bosque.png")
 ```
+
+Tomada de: pixabay.com
+
+</center>
+
+<br/><br/>
+
+Uno de los propósitos a nivel mundial es el de estimar la captura de dióxido de carbono uno principales gases causantes del calentamiento global y por tanto del cambio climático. 
+
+<br/>
+
+Un gupo de investigadores están interesados en poder construir modelos que permitan la valoración de estos beneficio a traves de información recogida sobre caracteristicas de los árboles de una región que les permita una estimación de la biomasa y así facilitar la toma de decciciones y la generación de políticas públicas.
+
+<br/>
+
+Se requiere base de arboles  proponga un modelo de regresión lineal simple que permita predecir el peso del árbol en función de las covariables que considere importantes y seleccionándolas de acuerdo con un proceso adecuado. 
+
+<br/>
+
+Tenga en cuenta realizar una evaluación de la significancia de los parámetros, validación de los supuesto e interpretación de los resultados. Proponga un método de evaluación por medio de validación cruzada. 
+
+<br/><br/>
+
+<pre>
+install.packages("devtools") # solo la primera vez
+devtools::install_github("dgonxalex80/paqueteMOD", force =TRUE)
+library(paqueteMOD)
+data(arboles)
+</pre>
+
+<br/><br/>
+
+Realice un informe que permita cumplir con los requerimientos solicitados incluyectos conclusiones y recomendaciones. Adjunto los anexos los procesos realizados.
+
+
 
