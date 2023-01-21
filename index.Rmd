@@ -57,7 +57,7 @@ data(arboles)
 
 <br/><br/>
 
-Realice un informe que permita cumplir con los requerimientos solicitados incluyectos conclusiones y recomendaciones. Adjunto los anexos los procesos realizados.
+Realice un informe que permita cumplir con los requerimientos solicitados incluyendo conclusiones y recomendaciones. Adjunto los anexos los procesos realizados.
 
 
 
