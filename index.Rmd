@@ -36,11 +36,15 @@ Uno de los propósitos a nivel mundial es el de estimar la captura de dióxido d
 
 <br/>
 
-Un gupo de investigadores están interesados en poder construir modelos que permitan la valoración de estos beneficio a traves de información recogida sobre caracteristicas de los árboles de una región que les permita una estimación de la biomasa y así facilitar la toma de decciciones y la generación de políticas públicas.
+Un gupo de investigadores están interesados en poder construir modelos que permitan la valoración de estos beneficio a traves de información recogida sobre caracteristicas de los árboles de una región, que les permita una estimación de la biomasa y así facilitar la toma de decciciones y la generación de políticas públicas.
 
 <br/>
 
-Se requiere base de arboles  proponga un modelo de regresión lineal simple que permita predecir el peso del árbol en función de las covariables que considere importantes y seleccionándolas de acuerdo con un proceso adecuado. 
+Se requiere ayude a los investigadores en su proposito utilizando la información contenida en la base de datos  arboles suministrada. 
+
+<br/>
+
+Proponga un **modelo de regresión lineal simple** que permita predecir el peso del árbol en función de las covariables que considere importantes y seleccionándolas de acuerdo con un proceso adecuado. 
 
 <br/>
 
