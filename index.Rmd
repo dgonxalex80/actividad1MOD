@@ -23,7 +23,7 @@ c4 ="#686868"  # gris - color texto
 <center>
 
 ```{r, echo=FALSE, out.width="90%", fig.align = "center"}
- knitr::include_graphics("img/bosque.png")
+knitr::include_graphics("img/bosque.png")
 ```
 
 Tomada de: pixabay.com
@@ -36,11 +36,16 @@ Uno de los propósitos a nivel mundial es el de estimar la captura de dióxido d
 
 <br/>
 
-Un gupo de investigadores están interesados en poder construir modelos que permitan la valoración de estos beneficio a traves de información recogida sobre caracteristicas de los árboles de una región, que les permita una estimación de la biomasa y así facilitar la toma de decciciones y la generación de políticas públicas.
+Un grupo de investigadores están interesados en poder construir modelos que permitan la valoración de estos beneficio a través de información recogida sobre características de los árboles de una región húmeda, que les permita una estimación de la biomasa y así facilitar la toma de decisiones y la generación de políticas públicas. 
+
+Como no es posible obtener el valor del peso del árbol sin cortar, se plantea la opción de estimarla a través de variables como la altura y el diámetro del tronco, información requerida para la estimación del valor de la biomasa.
+
+
+
 
 <br/>
 
-Se requiere ayude a los investigadores en su proposito utilizando la información contenida en la base de datos  arboles suministrada. 
+Se requiere ayude a los investigadores en su propósito utilizando la información contenida en la base de datos  arboles suministrada. 
 
 <br/>
 
@@ -50,7 +55,9 @@ Proponga un **modelo de regresión lineal simple** que permita predecir el peso 
 
 Tenga en cuenta realizar una evaluación de la significancia de los parámetros, validación de los supuesto e interpretación de los resultados. Proponga un método de evaluación por medio de validación cruzada. 
 
-<br/><br/>
+<br/>
+
+<div class="content-box-blue">
 
 <pre>
 install.packages("devtools") # solo la primera vez
@@ -58,10 +65,10 @@ devtools::install_github("dgonxalex80/paqueteMOD", force =TRUE)
 library(paqueteMOD)
 data(arboles)
 </pre>
+</div>
 
-<br/><br/>
+<br/>
 
 Realice un informe que permita cumplir con los requerimientos solicitados incluyendo conclusiones y recomendaciones. Adjunto los anexos los procesos realizados.
-
 
 
