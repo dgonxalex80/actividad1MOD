@@ -53,7 +53,7 @@ Proponga un **modelo de regresión lineal simple** que permita predecir el peso 
 
 <br/>
 
-Tenga en cuenta realizar una evaluación de la significancia de los parámetros, validación de los supuesto e interpretación de los resultados. Proponga un método de evaluación por medio de validación cruzada. 
+Tenga en cuenta realizar una evaluación de la significancia de los parámetros, validación de los supuesto e interpretación de los resultados. Proponga un método de evaluación para los modelos estimados. 
 
 <br/>
 
