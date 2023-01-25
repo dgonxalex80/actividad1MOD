@@ -18,7 +18,9 @@ c4 ="#686868"  # gris - color texto
 
 </br></br>
 
-# <span style="color:#034a94">**Caso biomasa**</span> 
+# **PARTE A**
+
+## <span style="color:#034a94">**Caso biomasa**</span> 
 
 <center>
 
@@ -55,7 +57,11 @@ Proponga un **modelo de regresión lineal simple** que permita predecir el peso 
 
 Tenga en cuenta realizar una evaluación de la significancia de los parámetros, validación de los supuesto e interpretación de los resultados. Proponga un método de evaluación para los modelos estimados. 
 
+
 <br/>
+
+Entregable : **informe.pdf*
+
 
 <div class="content-box-blue">
 
@@ -71,4 +77,14 @@ data(arboles)
 
 Realice un informe que permita cumplir con los requerimientos solicitados incluyendo conclusiones y recomendaciones. Adjunto los anexos los procesos realizados.
 
+<br/><br/><br/>
+
+# **PARTE B**
+
+# <span style="color:#034a94">**Mapa mental**</span> 
+
+Elabore un MAPA MENTAL que recoja los principales conceptos revisados en la unidad 1 y permita reconocer el nivel de apropiación alcanzado.
+
+
+Entregable : **mapa.pdf**
 
