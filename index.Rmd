@@ -60,7 +60,7 @@ Tenga en cuenta realizar una evaluación de la significancia de los parámetros,
 
 <br/>
 
-Entregable : **informe.pdf*
+Entregable : **informe.pdf**
 
 
 <div class="content-box-blue">
