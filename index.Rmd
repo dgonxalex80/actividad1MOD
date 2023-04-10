@@ -63,14 +63,19 @@ Tenga en cuenta realizar una evaluación de la significancia de los parámetros,
 Entregable : **informe.pdf**
 
 
-<div class="content-box-blue">
+</br></br>
 
-<pre>
+<div class="content-box-gray">
+
+### <span style="color:#686868">**Cargada de Datos**</span> 
+
+```{r, eval=FALSE}
 install.packages("devtools") # solo la primera vez
 devtools::install_github("dgonxalex80/paqueteMOD", force =TRUE)
 library(paqueteMOD)
 data(arboles)
-</pre>
+```
+
 </div>
 
 <br/>
@@ -87,4 +92,18 @@ Elabore un MAPA MENTAL que recoja los principales conceptos revisados en la unid
 
 
 Entregable : **mapa.pdf**
+
+
+<!-- RUBRICA -->
+<!-- Informe ejecutivo -->
+<!-- I1 Estructura clara,organizada y completa. -->
+<!-- I2 Comunica ideas claras  -->
+<!-- I3 Identifica la metodología adecuada. -->
+<!-- I4: Aplica la metodología adecuada.   -->
+
+<!-- Mapa -->
+<!-- M1: Contiene el tema central y todas las ideas principales y secundarias relavantes -->
+<!-- M2: Establece de manera adecuada las relaciones entre los conceptos e ideas -->
+<!-- M3 Construye un PM apropiado incluyendo imágenes, ecuaciones y no solo las palabras necesarias -->
+<!-- M4: Presenta una buena estética visual -->
 
